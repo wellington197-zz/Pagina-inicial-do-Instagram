@@ -1,6 +1,6 @@
 
 
-<img align-items="center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
+<img align="center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
 
 <h1 align="center"> Pagina Inicial do Instagram </h1>
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/static/v1?label=HTML5&message=linguagem&color=green&style=for-the-badge&logo=HTML5"/>
 <img src="https://img.shields.io/static/v1?label=flexbox&message=metodologia&color=yellow&style=for-the-badge&logo=Flexbox"/>
 <img src="https://img.shields.io/static/v1?label=Github&message=plataforma&color=orange&style=for-the-badge&logo=GITHUB"/>
-<img src="https://img.shields.io/static/v1?label=visualcode&message=plataforma&color=orange&style=for-the-badge&logo=VISUAL CODE"/>
+<img src="https://img.shields.io/static/v1?label=visualstudio&message=plataforma&color=blue&style=for-the-badge&logo=VISUALSTUDIO"/>
 
 ### Imagens do projeto
 
