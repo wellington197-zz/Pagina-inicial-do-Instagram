@@ -1,6 +1,6 @@
 
 <img align="center" width=200px height=50px src="assets/images/logo-instagram.png"/>
-<img align="center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
+<img align-items: "center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
 
 <h1 align="center"> Pagina-inicial-do-Instagram </h1>
 
@@ -15,13 +15,13 @@
 
 ### Imagens do projeto
 <h3>Imagen inicial</h3>
-<img src="assets/images/Captura1.PNG"/></br>
+<img src="assets/images/Capturar1.PNG"/></br>
 
 <h3>Imagen com responsividade max-width: 1024px</h3>
-<img src="assets/images/Captura2.PNG"/></br>
+<img src="assets/images/Capturar2.PNG"/></br>
 
 <h3>Imagen com responsividade max-width: 650px</h3>
-<img src="assets/images/Captura3.PNG"/></br>
+<img src="assets/images/Capturar3.PNG"/></br>
 
 
 ### Conceitos aplicados no projeto
@@ -41,14 +41,14 @@
 
 ## O que a plataforma é capaz de fazer :checkered_flag:
 
-:trophy: Plataforma criada com conceito de responsividade.
-:trophy: Criação e adição de repositório no GitHub
-:trophy: Criação e edição do Readme
+:trophy: Plataforma criada com conceito de responsividade.</br>
+:trophy: Criação e adição de repositório no GitHub</br>
+:trophy: Criação e edição do Readme</br>
 
 
 ## Como está andamento do projeto.
 
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Concluido :heavy_check_mark:</br>
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Linguagens e libs utilizadas :books:
@@ -66,6 +66,5 @@
 
 ## Mentoria e colaboração:
 
-[<img src="https://avatars1.githubusercontent.com/u/49404599?s=400&u=0a44d5acfb5a8d23a7279826b08027676c113038&v=4" width=115 > <br> <sub> Gabriela Pinheiro </sub>](https://github.com/SpruceGabriela) || :---: |  
-
-[<img src="https://avatars0.githubusercontent.com/u/46049384?s=400&u=5ffc9ececdad90da42baa09e1892f037e800e0db&v=4" width=115 > <br> <sub> Francisco Wellington Costa </sub>](https://github.com/wellington197) || :---: |  
+[<img src="https://avatars1.githubusercontent.com/u/49404599?s=400&u=0a44d5acfb5a8d23a7279826b08027676c113038&v=4" width=115 > <br> <sub> Gabriela Pinheiro </sub>](https://github.com/SpruceGabriela) |[<img src="https://avatars0.githubusercontent.com/u/46049384?s=400&u=5ffc9ececdad90da42baa09e1892f037e800e0db&v=4" width=115 > <br> <sub> Francisco Wellington Costa </sub>](https://github.com/wellington197) |[<img src="https://avatars0.githubusercontent.com/u/26231823?s=200&v=4" width=115 > <br> <sub> Digital Innovation One </sub>](https://github.com/search?q=digitalinovation) 
+| :---: | :---: | :---: |
