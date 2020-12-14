@@ -1,13 +1,11 @@
 
 
-<img src="assets/images/logo-instagram.png"/>
+<img src="assets/images/instagram.png"/>
 
 <h1 align="center"> Pagina Inicial do Instagram </h1>
 
- Nesse projeto reconstruida a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade.
+ Nesse projeto foi reconstruida a página inicial de login do Instagram, no qual foi abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade.
  
- <p align="justify"> Nesse projeto reconstruida a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade. </p>
-
  ![Badge](https://img.shields.io/static/v1?label=css3&message=linguagem&color=blue&style=for-the-badge&logo=CSS3)
 <img src="https://img.shields.io/static/v1?label=HTML5&message=linguagem&color=green&style=for-the-badge&logo=HTML5"/>
 <img src="https://img.shields.io/static/v1?label=flexbox&message=metodologia&color=yellow&style=for-the-badge&logo=Flexbox"/>
