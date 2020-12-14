@@ -1,5 +1,5 @@
 
-<img align="center" src="assets/images/logo-instagram.png"/>
+<img align="center" max-width: "50%" src="assets/images/logo-instagram.png"/>
 
 <h1 align="center"> Pagina-inicial-do-Instagram </h1>
 
@@ -7,9 +7,20 @@
  
  <p align="justify"> Nesse projeto reconstruida a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade. </p>
 
- ![Badge](https://img.shields.io/static/v1?label=css&message=framework&color=blue&style=for-the-badge&logo=CSS)
-<img src="https://img.shields.io/static/v1?label=HTML&message=framework&color=green&style=for-the-badge&logo=HTML"/>
-<img src="https://img.shields.io/static/v1?label=css&message=framework&color=green&style=for-the-badge&logo=CSS"/>
+ ![Badge](https://img.shields.io/static/v1?label=css&message=linguagem&color=blue&style=for-the-badge&logo=CSS)
+<img src="https://img.shields.io/static/v1?label=HTML&message=linguagem&color=green&style=for-the-badge&logo=HTML"/>
+<img src="https://img.shields.io/static/v1?label=css&message=metodologia&color=yellow&style=for-the-badge&logo=Flexbox"/>
+<img src="https://img.shields.io/static/v1?label=Github&message=plataforma&color=yellow&style=for-the-badge&logo=GITHUB"/>
+
+### Imagens do projeto
+<h3>Imagen inicial</h3>
+<img src="assets/images/Captura1.PNG/>
+
+<h3>Imagen com responsividade max-width: 1024px</h3>
+<img src="assets/images/Captura2.PNG/>
+
+<h3>Imagen com responsividade max-width: 650px</h3>
+<img src="assets/images/Captura3.PNG/>
 
 
 ### Conceitos aplicados no projeto
