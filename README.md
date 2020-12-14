@@ -1,14 +1,6 @@
 
 
-<img align-items="center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
-
 <img src="assets/images/logo-instagram.png"/>
-
-<img width="200px" height="50px" src="assets/images/logo-instagram.png"/>
-
-<img align="auto" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
-
-<img margin="center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
 
 <h1 align="center"> Pagina Inicial do Instagram </h1>
 
