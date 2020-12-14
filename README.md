@@ -2,6 +2,14 @@
 
 <img align-items="center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
 
+<img src="assets/images/logo-instagram.png"/>
+
+<img width="200px" height="50px" src="assets/images/logo-instagram.png"/>
+
+<img align="auto" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
+
+<img margin="center" width="200px" height="50px" src="assets/images/logo-instagram.png"/>
+
 <h1 align="center"> Pagina Inicial do Instagram </h1>
 
  Nesse projeto reconstruida a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade.
@@ -66,7 +74,7 @@
         - GitHub
         - Visual Stúdio
 
-## Mentoria e colaboração:
+## Mentoria e Colaboração:
 
 [<img src="https://avatars1.githubusercontent.com/u/49404599?s=400&u=0a44d5acfb5a8d23a7279826b08027676c113038&v=4" width=115 > <br> <sub> Gabriela Pinheiro </sub>](https://github.com/SpruceGabriela) |[<img src="https://avatars0.githubusercontent.com/u/46049384?s=400&u=5ffc9ececdad90da42baa09e1892f037e800e0db&v=4" width=115 > <br> <sub> Francisco Wellington Costa </sub>](https://github.com/wellington197) |[<img src="https://avatars0.githubusercontent.com/u/26231823?s=200&v=4" width=115 > <br> <sub> Digital Innovation One </sub>](https://github.com/search?q=digitalinovation) 
 | :---: | :---: | :---: |
