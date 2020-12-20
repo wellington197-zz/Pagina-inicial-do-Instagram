@@ -27,14 +27,14 @@
 
 ### Conceitos aplicados no projeto
 - Criação de página do instagram ultilizando conceitos em Flexbox
-    - Aplicando conceito de HTML5 e CSS 3 
+    - Aplicando conceito de HTML5 e CSS3 
     - Subindo para GitHub
 
 
 ### Atividades realizadas 
 
 - [X] Criação da página inicial
-- [X] Estilização via CSS5
+- [X] Estilização via CSS3
 - [X] Aplicação de posicionamento dos elementos
 - [X] Criação de repositório no GitHub
 - [X] Criação e edição do Readme
@@ -67,5 +67,5 @@
 
 ## Mentoria e Colaboração:
 
-[<img src="https://avatars1.githubusercontent.com/u/49404599?s=400&u=0a44d5acfb5a8d23a7279826b08027676c113038&v=4" width=115 > <br> <sub> Gabriela Pinheiro </sub>](https://github.com/SpruceGabriela) |[<img src="https://avatars0.githubusercontent.com/u/46049384?s=400&u=5ffc9ececdad90da42baa09e1892f037e800e0db&v=4" width=115 > <br> <sub> Francisco Wellington Costa </sub>](https://github.com/wellington197) |[<img src="https://avatars0.githubusercontent.com/u/26231823?s=200&v=4" width=115 > <br> <sub> Digital Innovation One </sub>](https://github.com/search?q=digitalinovation) 
+[<h3>Mentoria</h3><br><img src="https://avatars1.githubusercontent.com/u/49404599?s=400&u=0a44d5acfb5a8d23a7279826b08027676c113038&v=4" width=115 > <br> <sub> Gabriela Pinheiro </sub>](https://github.com/SpruceGabriela) |[<h3>Desenvolvedor</h3><br><img src="https://avatars0.githubusercontent.com/u/46049384?s=400&u=5ffc9ececdad90da42baa09e1892f037e800e0db&v=4" width=115 > <br> <sub> Francisco Wellington Costa </sub>](https://github.com/wellington197) |[<h3>Plataforma</h3><br><img src="https://avatars0.githubusercontent.com/u/26231823?s=200&v=4" width=115 > <br> <sub> Digital Innovation One </sub>](https://github.com/search?q=digitalinovation) 
 | :---: | :---: | :---: |
