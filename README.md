@@ -67,5 +67,5 @@
 
 ## Mentoria e Colaboração:
 
-[<h3>Mentoria</h3><br><img src="https://avatars1.githubusercontent.com/u/49404599?s=400&u=0a44d5acfb5a8d23a7279826b08027676c113038&v=4" width=115 > <br> <sub> Gabriela Pinheiro </sub>](https://github.com/SpruceGabriela) |[<h3>Desenvolvedor</h3><br><img src="https://avatars0.githubusercontent.com/u/46049384?s=400&u=5ffc9ececdad90da42baa09e1892f037e800e0db&v=4" width=115 > <br> <sub> Francisco Wellington Costa </sub>](https://github.com/wellington197) |[<h3>Plataforma</h3><br><img src="https://avatars0.githubusercontent.com/u/26231823?s=200&v=4" width=115 > <br> <sub> Digital Innovation One </sub>](https://github.com/search?q=digitalinovation) 
+[<h5>Mentoria</h5><br><img src="https://avatars1.githubusercontent.com/u/49404599?s=400&u=0a44d5acfb5a8d23a7279826b08027676c113038&v=4" width=115 > <br> <sub> Gabriela Pinheiro </sub>](https://github.com/SpruceGabriela) |[<h5>Dev</h5><br><img src="https://avatars0.githubusercontent.com/u/46049384?s=400&u=5ffc9ececdad90da42baa09e1892f037e800e0db&v=4" width=115 > <br> <sub> Francisco Wellington Costa </sub>](https://github.com/wellington197) |[<h5>Plataforma</h5><br><img src="https://avatars0.githubusercontent.com/u/26231823?s=200&v=4" width=115 > <br> <sub> Digital Innovation One </sub>](https://github.com/search?q=digitalinovation) 
 | :---: | :---: | :---: |
